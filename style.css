@@ -46,3 +46,22 @@ section h2 {
     font-weight: bold;
     margin-bottom: 20px;
 }
+
+/* TARJETAS DE NOTICIAS */
+
+.card {
+    background-color: #1e1e2e;
+    color: white;
+    border: 1px solid #343454;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.card .card-title {
+    color: #00bfff;
+    font-weight: bold;
+}
+
+.card .card-body {
+    padding: 20px;
+}
