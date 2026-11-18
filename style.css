@@ -21,3 +21,18 @@ body {
 .cabecera p {
     margin-bottom: 5px;
 }
+
+.menu {
+    background-color: #252540;
+    padding: 12px;
+}
+
+.menu .nav-link {
+    color: white;
+    font-weight: bold;
+    margin: 0 10px;
+}
+
+.menu .nav-link:hover {
+    color: #00bfff;
+}
